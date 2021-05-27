@@ -8,7 +8,7 @@
 
 - 👀 J'aime l'informatique.
 
-.
+——————————[🏴]——————————
 
 - 🌱 Je code actuellement en c#, c++, js, python, osint
 
